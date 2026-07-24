@@ -23,7 +23,7 @@ I am a Computer Science student blending a passion for modern web development wi
 **Frontend & Other:**
 `HTML5` `CSS3` `Git` `Blender`
 
-## Let's Connect!
+## Contact
 - **Email:** f1bartoszuk@gmail.com
 <!--
 **Filip-stack/Filip-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
