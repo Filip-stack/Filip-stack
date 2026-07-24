@@ -3,7 +3,7 @@
 I am a Computer Science student blending a passion for modern web development with a deep interest in low-level hardware programming. I am currently looking for an internship opportunity to apply my skills in commercial projects.
 
 ## About Me
-- Pursuing a degree in Computer Science.
+- Pursuing an Engineer's degree degree in Computer Science.
 - Developing everything from **RESTful APIs** (Java, Spring Boot) and interactive web applications (Vanilla JS) to **bare-metal firmware** (C, AVR).
 - Exploring Clean Architecture principles, containerization (Docker), and digital combinational logic systems.
 - Currently diving into data extraction techniques and building **web scrapers**.
