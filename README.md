@@ -15,7 +15,7 @@ I am a Computer Science student blending a passion for modern web development wi
 `Java` `C` `C++` `JavaScript` `Assembly` `Haskell` `Prolog`
 
 **Backend & Infrastructure:**
-`Spring Boot` `PostgreSQL` `Docker` `Linux` `VirtualBox` `Web Scraping`
+`Spring Boot` `PostgreSQL` `Oracle SQL` `Docker` `Linux` `VirtualBox` `Web Scraping`
 
 **Embedded Systems & Hardware:**
 `ATmega32 (AVR)` `Hardware Interrupts` `PWM` `I/O Multiplexing` `Digital Logic`
