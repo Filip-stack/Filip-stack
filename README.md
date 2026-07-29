@@ -12,7 +12,7 @@ I am a Computer Science student blending a passion for modern web development wi
 ## Tech Stack & Tools
 
 **Programming Languages:**
-`Java` `C` `C++` `JavaScript` `Assembly` `Haskell` `Prolog`
+`Java` `C` `C++` `Python` `JavaScript` `Assembly` `Haskell` `Prolog`
 
 **Backend & Infrastructure:**
 `Spring Boot` `PostgreSQL` `Oracle SQL` `Docker` `Linux` `VirtualBox` `Web Scraping`
