@@ -1,4 +1,4 @@
-# Hi, I'm Filip! 👋
+# Hi, I'm Filip
 
 I am a Computer Science student blending a passion for modern web development with a deep interest in low-level hardware programming. I am currently looking for an internship opportunity to apply my skills in commercial projects.
 
